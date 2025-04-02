@@ -41,5 +41,6 @@ El proyecto está dividido en tres clases principales que implementan el patrón
 
 ---
 
-**Autor:** pdiaz
+
+¡Espero que disfrutes jugando!
 
